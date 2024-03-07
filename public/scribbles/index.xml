@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Scribbles on Nikunj Gupta</title>
+    <link>http://localhost:1313/scribbles/</link>
+    <description>Recent content in Scribbles on Nikunj Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/scribbles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Echoes of Progress</title>
+      <link>http://localhost:1313/scribbles/01-echoes-of-progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/scribbles/01-echoes-of-progress/</guid>
+      <description>In the realm of technology, innovation is the beating heart that drives progress forward. From the humble beginnings of the first computers to the cutting-edge advancements in artificial intelligence and quantum computing, humanity&amp;rsquo;s quest for knowledge and efficiency knows no bounds. Each breakthrough builds upon the foundation laid by those who came before, propelling us ever closer to a future defined by boundless possibilities. Yet, with these remarkable achievements also come ethical considerations, as society grapples with questions of privacy, autonomy, and the ethical implications of our increasingly interconnected world.</description>
+    </item>
+    
+    <item>
+      <title>Growth vs. Scale</title>
+      <link>http://localhost:1313/scribbles/02-growth-vs-scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/scribbles/02-growth-vs-scale/</guid>
+      <description>The concepts of growth and scale can be explored through the lens of personal development and societal progress. Growth, in this sense, refers to qualitative improvements and enhancements in characteristics, knowledge, wisdom, and personal capabilities. It is an inward journey that involves deep self-reflection, learning from experiences, and evolving through challenges. Growth is about becoming more complex and enriched in understanding, values, and virtues.
+Scale, on the other hand, suggests a quantitative expansion, involving the ability to replicate or extend influence or impact effectively across larger ideas or to a broader audience.</description>
+    </item>
+    
+  </channel>
+</rss>

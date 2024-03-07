@@ -1,0 +1,123 @@
+baseURL: "https://nikunj-gupta.github.io/" 
+title: Nikunj Gupta
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: nikunj@usc.edu
+          url: mailto:nikunj@usc.edu
+          weight: 1
+        # - name: CV
+        #   url: cv.pdf
+        #   weight: 2 
+        # - name: Papers
+        #   url: papers/
+        #   weight: 1
+        # - name: Courses
+        #   url: courses/
+        #   weight: 2
+        # - name: Data
+        #   url: data/
+        #   weight: 3 
+        # - name: Newsletter
+        #   url: https://pmichaillat.substack.com
+        #   weight: 4
+
+params:
+    description: 
+    author: 
+    googleAnalyticsID: "G-J1R0FJ12D2"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Nikunj Gupta
+          subtitle: "CS PhD student @ University of Southern California. Interested in (single-agent)(multi-agent)(deep) reinforcement learning, sequential decision-making under uncertainty, and graph neural networks."
+          imageUrl: "profilepicture.png"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Nikunj 
+          buttons:
+            - name: nikunj@usc.edu
+              url: mailto:nikunj@usc.edu
+            - name: Timeline
+              url: timeline/
+            - name: CV
+              url: 
+            - name: Scribbles
+              url: scribbles/
+            - name: Travel
+              url: travel/
+            # - name: Music
+            #   url: music/
+            # - name: Papers
+            #   url: papers/
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Newsletter
+            #   url: https://pmichaillat.substack.com
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+    socialIcons:
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?hl=en&user=nargncAAAAAJ
+        - name: Linkedin
+          url: https://www.linkedin.com/in/nikunj-gupta97/
+        - name: GitHub
+          url: https://github.com/Nikunj-Gupta
+        - name: Twitter
+          url: https://twitter.com/NikunjGupta97
+        - name: Orcid
+          url: https://orcid.org/0000-0002-1455-0412
+        - name: Location
+          url: https://maps.app.goo.gl/VXvGjQAsdFhZ5ZEw8
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: Nikunj Gupta
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
