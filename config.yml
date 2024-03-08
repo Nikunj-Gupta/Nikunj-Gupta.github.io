@@ -14,9 +14,9 @@ menu:
         - name: nikunj@usc.edu
           url: mailto:nikunj@usc.edu
           weight: 1
-        # - name: CV
-        #   url: cv.pdf
-        #   weight: 2 
+        - name: CV
+          url: cv.pdf
+          weight: 2 
         # - name: Papers
         #   url: papers/
         #   weight: 1
@@ -67,7 +67,7 @@ params:
             - name: Timeline
               url: timeline/
             - name: CV
-              url: 
+              url: cv.pdf
             - name: Scribbles
               url: scribbles/
             - name: Travel
