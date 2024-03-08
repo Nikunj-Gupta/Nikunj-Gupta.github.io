@@ -1,5 +1,5 @@
 baseURL: "https://nikunj-gupta.github.io/" 
-title: Nikunj Gupta
+title: Nikunj Gupta 
 paginate: 20
 theme: PaperMod
 
@@ -55,9 +55,9 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Nikunj Gupta
-          subtitle: "CS PhD student @ University of Southern California. Interested in (single-agent)(multi-agent)(deep) reinforcement learning, sequential decision-making under uncertainty, and graph neural networks."
-          imageUrl: "profilepicture.png"
+          title: Nikunj Gupta 
+          subtitle: "CS PhD student @ University of Southern California | MS NYU | Integrated MTech IIITB</br> <b>Research interests</b> : (single-agent)(multi-agent)(deep) reinforcement learning, sequential decision-making, uncertainty, graph neural networks."
+          imageUrl: "profile-pic.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Nikunj 
