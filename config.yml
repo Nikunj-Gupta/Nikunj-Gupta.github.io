@@ -68,10 +68,10 @@ params:
             #   url: timeline/
             - name: CV
               url: cv.pdf
-            - name: Scribbles
-              url: scribbles/
-            - name: Travel
-              url: travel/
+            # - name: Scribbles
+            #   url: scribbles/
+            # - name: Travel
+            #   url: travel/
             - name: Page Views
               url: views/
             # - name: Music
