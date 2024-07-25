@@ -72,6 +72,8 @@ params:
             #   url: scribbles/
             # - name: Travel
             #   url: travel/
+            - name: Call for Collaborations!
+              url: callforcollabs/
             - name: Page Views
               url: views/
             # - name: Music
