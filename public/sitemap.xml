@@ -14,6 +14,8 @@
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/views/</loc>
+  </url><url>
     <loc>http://localhost:1313/scribbles/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -25,7 +27,5 @@
     <loc>http://localhost:1313/timeline/</loc>
   </url><url>
     <loc>http://localhost:1313/travel/</loc>
-  </url><url>
-    <loc>http://localhost:1313/views/</loc>
   </url>
 </urlset>
