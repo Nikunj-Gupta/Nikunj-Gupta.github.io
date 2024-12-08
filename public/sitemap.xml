@@ -16,6 +16,8 @@
   </url><url>
     <loc>http://localhost:1313/views/</loc>
   </url><url>
+    <loc>http://localhost:1313/papers/</loc>
+  </url><url>
     <loc>http://localhost:1313/scribbles/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

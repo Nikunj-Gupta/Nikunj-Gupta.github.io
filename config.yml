@@ -64,22 +64,22 @@ params:
           buttons:
             - name: nikunj@usc.edu
               url: mailto:nikunj@usc.edu
+            - name: Papers
+              url: papers/
             # - name: Timeline
             #   url: timeline/
             - name: CV
               url: cv.pdf
+            - name: Call-for-Collabs!
+              url: callforcollabs/
             # - name: Scribbles
             #   url: scribbles/
-            # - name: Travel
-            #   url: travel/
-            - name: Call for Collaborations!
-              url: callforcollabs/
+            - name: Travel
+              url: travel/
             - name: Page Views
               url: views/
             # - name: Music
             #   url: music/
-            # - name: Papers
-            #   url: papers/
             # - name: Courses
             #   url: courses/
             # - name: Data
